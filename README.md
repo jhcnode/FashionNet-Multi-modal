@@ -1,4 +1,4 @@
-# FashionNet-Multi-modal
+# FashionNet-Multi-Modal
 multi-modal netowrk for fashion dataset 
 
 ## Dataset
