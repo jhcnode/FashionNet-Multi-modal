@@ -1,5 +1,5 @@
 # FashionNet-Multi-Modal
-multi-modal netowrk for fashion dataset 
+multi-modal network for fashion dataset 
 
 ## Dataset
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
